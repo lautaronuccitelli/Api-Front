@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\SQL Server Management Studio\\SuperMasDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{850D6D4C-BFB3-5E3D-A800-2FD0EF6FB411}|SuperMasDB.ssmssqlproj|C:\\Users\\user\\Documents\\SQL Server Management Studio\\SuperMasDB\\SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{850D6D4C-BFB3-5E3D-A800-2FD0EF6FB411}|SuperMasDB.ssmssqlproj|solutionrelative:SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql - (localdb)\\MSSQLLocalDB.master (DESKTOP-A5NNIP2\\user (54))",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SQL Server Management Studio\\SuperMasDB\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql - (localdb)\\MSSQLLocalDB.master (DESKTOP-A5NNIP2\\user (54))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-18T03:14:10.482Z",
+              "EditorCaption": " - (localdb)\\MSSQLLocalDB.master (DESKTOP-A5NNIP2\\user (54))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
